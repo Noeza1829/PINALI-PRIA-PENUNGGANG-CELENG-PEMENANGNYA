@@ -1,1 +1,2 @@
-# PINALI-PRIA-PENUNGGANG-CELENG-PEMENANGNYA
+This is officially code of norigami website
+©Nori
